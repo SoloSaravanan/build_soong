@@ -221,6 +221,9 @@ mediatek\..*
 vendor\.mediatek
 vendor\.mediatek\..*
 
+# Xiaomi IMS vendor boot jar
+com\.xiaomi\.ims
+
 # NT adds
 com\.nothing
 com\.nothing\..*
